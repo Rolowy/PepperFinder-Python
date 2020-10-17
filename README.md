@@ -1,3 +1,1 @@
 # Python
-
-Freebies Time
